@@ -1,6 +1,6 @@
 # TabCloser
 
-Tab closer provides some contextual menu items that can help you close multiple tabs with one click.
+TabCloser provides some contextual menu items that can help you close multiple tabs with one click.
 
 * Close left tabs
 * Close right tabs
